@@ -7,7 +7,7 @@
 * [On the mathematics of flat origamis](/papers/1994/On-the-mathematics-of-flat-origamis.md), Thomas Hull, 1994
 
 #### Self-Folding
-*
+* [A method for building self-folding machines](/papers/2014/A-method-for-building-self-folding-machines.md), S Felton, M Tolley, E Demaine, D Rus, R Wood, 2014
 
 #### Paper Crafting
 *
