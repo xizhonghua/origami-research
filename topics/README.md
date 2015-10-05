@@ -8,6 +8,7 @@
 
 #### Self-Folding
 * [A method for building self-folding machines](/papers/2014/A-method-for-building-self-folding-machines.md), S Felton, M Tolley, E Demaine, D Rus, R Wood, 2014
+* [An end-to-end approach to making self-folded 3D surface shapes by uniform heating](/papers/2014/An-end-to-end-approach-to-making-self-folded-3D-surface-shapes-by-uniform-heating.md), Byoungkwon An, Shuhei Miyashita, Michael T. Tolley, Daniel M. Aukes, Laura Meeker, Erik D. Demaine , Martin L. Demaine, Robert J. Wood and Daniela Rus, 2014
 
 #### Paper Crafting
 *
