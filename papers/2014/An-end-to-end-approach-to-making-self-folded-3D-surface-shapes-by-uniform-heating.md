@@ -1,0 +1,8 @@
+### An end-to-end approach to making self-folded 3D surface shapes by uniform heating
+
+Byoungkwon An, Shuhei Miyashita, Michael T. Tolley, Daniel M. Aukes, Laura Meeker, Erik D. Demaine , Martin L. Demaine, Robert J. Wood and Daniela Rus
+
+Link: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6907045
+
+#### Abstract
+This paper presents an end-to-end approach for creating 3D shapes by self-folding planar sheets activated by uniform heating. These shapes can be used as the mechanical bodies of robots. The input to this process is a 3D geometry (e.g. an OBJ file). The output is a physical object with the specified geometry. We describe an algorithm pipeline that (1) identifies the overall geometry of the input, (2) computes a crease pattern that causes the sheet to self-fold into the desired 3D geometry when activated by uniform heating, (3) automatically generates the design of a 2D sheet with the desired pattern and (4) automatically generates the design files required to fabricate the 2D structure. We demonstrate these algorithms by applying them to complex 3D shapes. We demonstrate the fabrication of a self-folding object with over 50 faces from automatically generated design files.
