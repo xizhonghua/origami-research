@@ -1,0 +1,7 @@
+### Programmable matter by folding
+Elliot Hawkes, B An, NM Benbernou, H Tanaka, S Kim, ED Demaine, D Rus, RJ Wood
+
+Link: http://www.pnas.org/content/107/28/12441.short
+
+#### Abstact
+Programmable matter is a material whose properties can be programmed to achieve specific shapes or stiffnesses upon command. This concept requires constituent elements to interact and rearrange intelligently in order to meet the goal. This paper considers achieving programmable sheets that can form themselves in different shapes autonomously by folding. Past approaches to creating transforming machines have been limited by the small feature sizes, the large number of components, and the associated complexity of communication among the units. We seek to mitigate these difficulties through the unique concept of self-folding origami with universal crease patterns. This approach exploits a single sheet composed of interconnected triangular sections. The sheet is able to fold into a set of predetermined shapes using embedded actuation. To implement this self-folding origami concept, we have developed a scalable end-to-end planning and fabrication process. Given a set of desired objects, the system computes an optimized design for a single sheet and multiple controllers to achieve each of the desired objects. The material, called programmable matter by folding, is an example of a system capable of achieving multiple shapes for multiple functions.
