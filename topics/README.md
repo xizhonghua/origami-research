@@ -13,3 +13,6 @@
 
 #### Paper Crafting
 *
+
+#### Dynamics
+* [A dynamic model of magneto-active elastomer actuation of the waterbomb base](/papers/2014/A-dynamic-model-of-magneto-active-elastomer-actuation-of-the-waterbomb-base.md), Landen Bowen, Mary Frecker, Timothy W Simpson, Paris von Lockette, 2014
