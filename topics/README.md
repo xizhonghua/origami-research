@@ -15,4 +15,6 @@
 *
 
 #### Dynamics
+* [Development and Validation of a Dynamic Model of Magneto-Active Elastomer Actuation of the Origami Waterbomb Base](/papers/2015/Development-and-Validation-of-a-Dynamic-Model-of-Magneto-Active-Elastomer-Actuation-of-the-Origami-Waterbomb-Base.md), Landen Bowen, Kara Springsteen, Hannah Feldstein, Mary Frecker, Timothy W Simpson, Paris von Lockette, 2015
 * [A dynamic model of magneto-active elastomer actuation of the waterbomb base](/papers/2014/A-dynamic-model-of-magneto-active-elastomer-actuation-of-the-waterbomb-base.md), Landen Bowen, Mary Frecker, Timothy W Simpson, Paris von Lockette, 2014
+
