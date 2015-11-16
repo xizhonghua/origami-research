@@ -28,4 +28,4 @@ the algorithm into crowd simulation software to model large
 crowds in dynamic environments in real-time.
 
 ### Summary
-Graph serach on dual graph of the walkable mesh. Propose DPA* that only remembers the previous optimal path and handle dynamic events (insertion and deletion) properly to improve the replanning efficient and guarantee the optimality of the path.
+Graph serach on dual graph of the walkable mesh. Propose DPA* that only remembers the previous optimal path and handle dynamic events (insertion and deletion) properly to improve the replanning efficient by resuing the path segments from previous path which also guarantees the optimality of the path.
