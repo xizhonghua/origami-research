@@ -1,4 +1,6 @@
-# IROS 2015 Paper ToRead List
+# IROS
+
+### 2015
 
 * ~~Motion Planning for a Multi-Arm Surgical Robot Using Both Sampling-Based Algorithms and Motion Primitives~~
 * Dynamically Pruned A* for Re-Planning in Navigation Meshes
