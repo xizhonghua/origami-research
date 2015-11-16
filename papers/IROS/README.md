@@ -3,7 +3,7 @@
 ### 2015
 
 * ~~Motion Planning for a Multi-Arm Surgical Robot Using Both Sampling-Based Algorithms and Motion Primitives~~
-* Dynamically Pruned A* for Re-Planning in Navigation Meshes
+* [Dynamically Pruned A* for Re-Planning in Navigation Meshes](2015/TG-DPARNM.md)
 * Motion Planning Using First-Order Synergies
 * Sampling-Based Planning for Maximum Margin Input Space Obstacle Avoidance
 * An Asymptotically-Optimal Sampling-Based Algorithm for Bi-Directional Motion Planning
