@@ -19,7 +19,7 @@ attractive for potential applications in human-like robots using
 human synergies.
 
 ### Summary
-Partion the configuration spaces into zones according to the first-order synergies (velocity). Expansion in each zone has different weight along each axis according to the synergies.
+Partion the configuration spaces into zones according to the first-order synergies (velocity). Fos-RRT expansion in each zone has different weights along each axis according to the synergies.
 
 ### Pros
 * More nature solutions
