@@ -19,4 +19,13 @@ attractive for potential applications in human-like robots using
 human synergies.
 
 ### Summary
+Partion the configuration spaces into zones according to the first-order synergies (velocity). Expansion in each zone has different weight along each axis according to the synergies.
 
+### Pros
+* More nature solutions
+
+### Cons
+* Samples required (training)
+* No completeness proof
+* Can lead to poor performance if cross zone extension happened at improper location
+* Unfair experiments
