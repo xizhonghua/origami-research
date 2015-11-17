@@ -10,4 +10,4 @@
 * ~~Smooth Orientation Path Planning with Quaternions Using B-Splines~~
 * Machine Learning Guided Exploration for Sampling-Based Motion Planning Algorithms
 * Improved Roadmap Connection Via Local Learning for Sampling Based Planners
-* Multi-Objective Cost-To-Go Functions on Robot Navigation in Dynamic Environments
+* [Multi-Objective Cost-To-Go Functions on Robot Navigation in Dynamic Environments](2015/FS-MCFRNDE.md)
