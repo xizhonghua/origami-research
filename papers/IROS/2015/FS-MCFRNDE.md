@@ -21,9 +21,11 @@ and real experiments have been carried out to demonstrate the
 success of the AKP.
 
 ### Summary
-
+Extend their previous work Anticipative Kinodynamic Planning (AKP) using cost-to-go metric instead of Euclidean distance. The the cost function is defined as accumulated weighted normalized average of multiple objectives along the path based on Extended Social Force Model (ESFM). Using Monte Carlo approach to sample the weights, carry out simulations on many different scenarios and compute the costs associated to the sampled weights.
 
 ### Pros
-
+1. Higher space coverage
+2. Lower cost to reach the goal
 
 ### Cons
+1. Parameter learning is not optimal
